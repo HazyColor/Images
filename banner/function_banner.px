@@ -1,0 +1,16 @@
+[
+{
+  "type":0,
+  "imageId": -1,
+  "imageUrl": "",
+  "funcText": "AI Music",
+  "descText": "Create your own melody"
+},
+{
+  "type":1,
+  "imageId": -1,
+  "imageUrl": "",
+  "funcText": "DJ Master",
+  "descText": "Let this rhythm control your heartbeat, every beat is full of power!"
+},
+]
