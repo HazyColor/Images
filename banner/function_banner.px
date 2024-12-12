@@ -1,16 +1,26 @@
 [
-{
-  "type":0,
-  "imageId": -1,
-  "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/ai_music.webp",
-  "funcText": "AI Music",
-  "descText": "Create your own melody"
-},
-{
-  "type":1,
-  "imageId": -1,
-  "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_dj_master.webp",
-  "funcText": "DJ Master",
-  "descText": "Let this rhythm control your heartbeat, every beat is full of power!"
-}
+  {
+    "type": 0,
+    "imageId": -1,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/ai_music.webp",
+    "funcText": "AI Music",
+    "descText": "Create your own melody",
+    "applicationId": ""
+  },
+  {
+    "type": 1,
+    "imageId": -1,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_dj_master.webp",
+    "funcText": "DJ Master",
+    "descText": "Let this rhythm control your heartbeat, every beat is full of power!",
+    "applicationId": "com.px.alive.media.dj"
+  },
+  {
+    "type": 1,
+    "imageId": -1,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_volume_loudness.webp",
+    "funcText": "Volume Booster",
+    "descText": "Amplify the sound, amplify the beauty of the world!🔈",
+    "applicationId": "com.audio.volumeloudness"
+  }
 ]
