@@ -5,7 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/ai_music.webp",
     "funcText": "AI Music",
     "descText": "Create your own melody",
-    "applicationId": ""
+    "applicationId": "",
+    "targetPage":"com.px.alive.ai.music.minmax.FragmentGenerateMusic"
   },
   {
     "type": 1,
@@ -13,7 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_dj_master.webp",
     "funcText": "DJ Master",
     "descText": "Let this rhythm control your heartbeat, every beat is full of power!",
-    "applicationId": "com.px.alive.media.dj"
+    "applicationId": "com.px.alive.media.dj",
+    "targetPage":""
   },
   {
     "type": 1,
@@ -21,6 +23,7 @@
     "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_volume_loudness.webp",
     "funcText": "Volume Booster 🔈",
     "descText": "Amplify the sound, amplify the beauty of the world!",
-    "applicationId": "com.audio.volumeloudness"
+    "applicationId": "com.audio.volumeloudness",
+    "targetPage":""
   }
 ]
