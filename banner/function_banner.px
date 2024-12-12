@@ -14,5 +14,13 @@
     "funcText": "DJ Master",
     "descText": "Let this rhythm control your heartbeat, every beat is full of power!",
     "applicationId": "com.px.alive.media.dj"
+  },
+  {
+    "type": 1,
+    "imageId": -1,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_volume_loudness.webp",
+    "funcText": "Volume Booster",
+    "descText": "Amplify the sound, amplify the beauty of the world!",
+    "applicationId": "com.audio.volumeloudness"
   }
 ]
