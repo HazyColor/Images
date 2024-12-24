@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": 0,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/album/flying_dark.webp",
+    "name": "Flying to black hole",
+    "videoUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/skin_dark_flying.mp4"
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/album/ai_music_robot_album.webp",
+    "name": "Robot music party",
+    "videoUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/ai_music_robot.mp4"
+  }
+]
