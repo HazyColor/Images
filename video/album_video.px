@@ -16,5 +16,23 @@
     "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/album/ai_music_robot_album.webp",
     "text": "Robot music party",
     "videoUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/ai_music_robot.mp4"
+  },
+  {
+    "id": 2,
+    "name": "sleep_rainy.mp4",
+    "isPremium":false,
+    "imageSize":14749346,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/sleep_rainy.webp",
+    "text": "Rain in the forest",
+    "videoUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/sleep_rainy.mp4"
+  },
+  {
+    "id": 3,
+    "name": "cartoon_car.mp4",
+    "isPremium":true,
+    "imageSize":18581170,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/cartoon_car_album.webp",
+    "text": "3D cartoon character & karting",
+    "videoUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/video/cartoon_car.mp4"
   }
 ]
