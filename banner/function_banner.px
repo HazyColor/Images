@@ -11,7 +11,7 @@
   {
     "type": 1,
     "imageId": -1,
-    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_dj_master.webp",
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_banner_dj_master.webp",
     "funcText": "DJ Master",
     "descText": "Let this rhythm control your heartbeat, every beat is full of power!",
     "applicationId": "com.px.alive.media.dj",
@@ -20,10 +20,19 @@
   {
     "type": 1,
     "imageId": -1,
-    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_volume_loudness.webp",
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_banner_volume_booster.webp",
     "funcText": "Volume Booster 🔈",
     "descText": "Amplify the sound, amplify the beauty of the world!",
     "applicationId": "com.audio.volumeloudness",
+    "targetPage":""
+  },
+  {
+    "type": 1,
+    "imageId": -1,
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_banner_voice_changer.webp",
+    "funcText": "Voice Changer with Effect",
+    "descText": "Revolutionize your voice, anytime, anywhere.",
+    "applicationId": "com.px.alive.voice.changer",
     "targetPage":""
   }
 ]
