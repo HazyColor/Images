@@ -6,7 +6,7 @@
     "funcText": "AI Music",
     "descText": "Create your own melody",
     "applicationId": "",
-    "targetPage":"com.px.alive.ai.music.minmax.FragmentGenerateMusic"
+    "targetPage":"com.px.alive.ai.music.ai.FragmentGeneration"
   },
   {
     "type": 1,
