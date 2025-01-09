@@ -2,7 +2,7 @@
   {
     "type": 0,
     "imageId": -1,
-    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/ai_music.webp",
+    "imageUrl": "https://raw.githubusercontent.com/HazyColor/AI-Music/refs/heads/main/banner/image_banner_ai_music.webp",
     "funcText": "AI Music",
     "descText": "Create your own melody",
     "applicationId": "",
